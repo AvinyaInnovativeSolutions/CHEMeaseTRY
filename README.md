@@ -4,7 +4,7 @@ Hi, I'm Aadarsh A.K the Founder and CEO of Avinya Innovative Solutions. We aim a
 Credits ---> https://www.kaggle.com/datasets/manojk29/periodictable
              Thw above dataset was used in the making of this project.
 
-CHEMeaseTRY is a free and open source tool which can be used to obtain certain details of an element from the periodic table. It works in an object oriented manner wherein each element is treated, the properties and functions are as listed below :
+CHEMeaseTRY is a free and open source tool which can be used to obtain certain details of an element from the periodic table. It works in an object oriented manner wherein each element is treated as an object, the properties and functions are as listed below :
 
 Properties:
   #Atomic Number
